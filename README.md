@@ -12,7 +12,8 @@ pip install vstring
 # Usage
 
 # TODO
-Implement
+- Implement in py3
+- Fully py2 compatible
 
 # Author
 
